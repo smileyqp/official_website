@@ -99,6 +99,7 @@ overflow:hidden;
   text-align: center;
   font-size: 35px;
   color: #900637;
+  font-weight: 700;
 
 }
 .chapter-white{
@@ -333,7 +334,7 @@ overflow:hidden;
     height: 60px;
     line-height: 60px;
     text-align: center;
-    font-size: 30px;
+    font-size: 28px;
     font-weight: 600;
     color:#900637;
     flex: 1;
