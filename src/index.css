@@ -326,6 +326,7 @@ overflow:hidden;
     writing-mode:horizontal-tb;
     /* color: #445F70; */
     color: #900637;
+    padding: 10px;
   }
   
   .cul-til{
@@ -348,4 +349,11 @@ overflow:hidden;
     margin-bottom: 30px;
   }
   
+}
+
+::-webkit-scrollbar
+{
+    width: 0px;
+    height: 0px;
+    background-color: transparent;
 }
