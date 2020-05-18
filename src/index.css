@@ -80,6 +80,19 @@ overflow:hidden;
 .header{
   font-size: 18px;
 }
+.title-font{
+  font-size: 20px;
+  font-weight: 600;
+  color: #900637;
+}
+.navbtn{
+  cursor: pointer;
+}
+.navlogo{
+  display:flex;
+  flex-direction:row;
+  align-items: center;
+}
 .chapter-title{
   height: 100px;
   line-height: 100px;
