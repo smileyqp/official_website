@@ -8,7 +8,7 @@ import AboutUs from '../../components/AboutUs'
 import ProductIntroduce from '../../components/ProductIntroduce'
 import ProductIdea from '../../components/ProductIdea'
 import Culture from '../../components/Culture'
-
+import Purpose from '../../components/Purpose'
 
 
 class HomePage extends Component {

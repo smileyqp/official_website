@@ -15,7 +15,7 @@ export default class Header extends Component {
                     height="50"
                     className="d-inline-block align-top"
                 />
-                <div className='title-font' >邦方生物</div>
+                <div className='title-font'>安徽邦方生物</div>
                 </Navbar.Brand>
                 <Navbar.Toggle />
                 <Navbar.Collapse className="justify-content-end">

@@ -184,6 +184,13 @@ overflow:hidden;
   background: #900637;
   color: white;
   padding-bottom:30px ;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.aboutus-purpose{
+  font-size: 20px;
+  font-weight: 500;
 }
 .aboutus-font{
   color: white ;
