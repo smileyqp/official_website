@@ -18,11 +18,12 @@ export default class Culture extends Component {
             <div className='culture-con'>
                 {cultureData.map((item)=>{
                     return (<div className='culture-item' key={item.title}>
-                            <div className='cul-til'>{item.title}</div>
-                            <div className='cul-content'>{item.content}</div>
-                </div>)
+                                <div className='cul-til'>{item.title}</div>
+                                <div className='cul-content'>{item.content}</div>
+                            </div>)
                 })}
             </div>
+           
         </section>
         )
     }
