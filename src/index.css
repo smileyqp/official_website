@@ -402,6 +402,19 @@ overflow:hidden;
   .contactus-box{
     display: 1;
   }
+  .contactus-left{
+    width: 95%;
+    height: 80%;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+    line-height: 40px;
+  }
+  .contactus-box-right{
+    height: 250px;
+  }
   
 }
 
