@@ -24,6 +24,7 @@ export default class Header extends Component {
                     <Nav.Link  className='navbtn' onClick={()=>scrollToAnchor('prdintro')}>产品介绍</Nav.Link>
                     <Nav.Link className='navbtn' onClick={()=>scrollToAnchor('aboutus')}>关于我们</Nav.Link>
                     <Nav.Link className='navbtn' onClick={()=>scrollToAnchor('culture')}>企业文化</Nav.Link>
+                    <Nav.Link className='navbtn' onClick={()=>scrollToAnchor('contactus')}>联系我们</Nav.Link>
                     
                 </Navbar.Collapse>
                 

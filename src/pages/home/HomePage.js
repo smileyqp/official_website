@@ -9,6 +9,7 @@ import ProductIntroduce from '../../components/ProductIntroduce'
 import ProductIdea from '../../components/ProductIdea'
 import Culture from '../../components/Culture'
 import Purpose from '../../components/Purpose'
+import ContactUs from '../../components/Contactus'
 
 
 class HomePage extends Component {
@@ -30,6 +31,7 @@ class HomePage extends Component {
         <ProductIntroduce/>
         <AboutUs/>
         <Culture/>
+        <ContactUs/>
         <ProductIdea/>
         <Footer/>
       

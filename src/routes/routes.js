@@ -7,7 +7,7 @@ import App from '../App'
 export default(
     <div>
         <Route exact path='/' component={ HomePage }/>
-        <Route path='/app' component={ App }/>
+        <Route path='/app' component={ HomePage }/>
         <Route path='/login' component={ HomePage }/>
         <Route path='/new-event' component={ HomePage }/>
     </div>
