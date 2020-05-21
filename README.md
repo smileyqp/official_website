@@ -14,3 +14,7 @@
 ##### 移动端gif效果图片
 
 ![bf_official](./bf_official.gif)
+
+![](https://img-blog.csdnimg.cn/20200521165226603.gif)
+
+![](https://img-blog.csdnimg.cn/2020052116535721.gif)
