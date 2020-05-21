@@ -5,8 +5,8 @@
 - 前端框架：react
 - UI框架：bootstrap
 
-- [演示地址](<http://47.112.242.72:8080/>)
-
+- [演示地址](http://47.112.242.72:8080)
+- [csdn blog地址解说](https://blog.csdn.net/qq_34273059/article/details/106261669)
 ##### PC效果gif图片
 
 ![bf](./bf.gif)
