@@ -99,6 +99,7 @@ overflow:hidden;
   text-align: center;
   font-size: 35px;
   color: #900637;
+  font-weight: 700;
 
 }
 .chapter-white{
@@ -213,6 +214,7 @@ overflow:hidden;
   /* color: #445F70; */
   color: #900637;
 }
+
 .cul-til{
   width: 100%;
   height: 80px;
@@ -297,12 +299,8 @@ overflow:hidden;
     display: flex;
     flex-direction: column;
   }
-  .culture-item{
-    width: 60px;
-  }
-  .cul-content{
-    line-height: 60px;
-  }
+
+
   .chapter-title{
     font-size: 25px;
   }
@@ -317,5 +315,46 @@ overflow:hidden;
   .cardidea-font{
     width: 30px;
   }
+
+  .culture-con{
+    flex-direction: column;
+  }
   
+  .culture-item{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    writing-mode:horizontal-tb;
+    /* color: #445F70; */
+    color: #900637;
+    padding: 10px;
+  }
+  
+  .cul-til{
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 600;
+    color:#900637;
+    flex: 1;
+  }
+  .cul-content{
+    flex: 4;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 20px;
+    border: 3px solid #900637;
+    border-radius: 10px;
+    margin-bottom: 30px;
+  }
+  
+}
+
+::-webkit-scrollbar
+{
+    width: 0px;
+    height: 0px;
+    background-color: transparent;
 }
